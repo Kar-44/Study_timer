@@ -2,6 +2,8 @@
 
 A lightweight, browser-based web application designed to optimize your learning process and track long-term progress. By combining the scientifically proven Pomodoro technique with comprehensive goal management, this tool helps maintain focus, prevent burnout, and visually map your journey toward major academic or professional milestones.
 
+This was built because I feel like it is much easier to learn start something and stay motivated if we see progress. Seeing the % of estimated time goal increase is some progress and it can keep us going. I hope you will find it useful.
+
 ## Purpose & Philosophy
 Effective learning requires both intense, focused study sessions and a clear overview of long-term progress. This application solves two common productivity problems:
 1. **Maintaining Focus:** It uses timed intervals (Pomodoros) to break work into manageable chunks, encouraging sustained concentration while ensuring adequate rest.
